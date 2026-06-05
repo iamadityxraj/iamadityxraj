@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aditya Raj 👋
 
-<!--
-**iamadityxraj/iamadityxraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical and Electronics Engineering Student
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Networking and Cloud Computing
+- Learning Python and Java
+- Exploring Network Automation
+- Looking for Internship Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (Beginner)
+- Java (Basic)
+- MATLAB
+- Computer Networks
+- Problem Solving
+
+## Currently Learning
+- Network Automation
+- Cloud Computing
+- Python for Networking
+
+## Projects
+- Python Port Scanner (In Progress)
+- Network Monitoring Tool (In Progress)
+
+## Career Goal
+To build a career in Networking, Cloud Computing, and IT Infrastructure while continuously improving my technical skills.
